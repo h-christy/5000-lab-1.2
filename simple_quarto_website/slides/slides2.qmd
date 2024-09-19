@@ -1,0 +1,63 @@
+---
+title: "simple presentation"
+format: revealjs
+bibliography: 
+    - /Users/toyuan/5000-lab-1.2/simple_quarto_website/reference.bib
+---
+## MME: relationship of Violence and the Development of Community
+
+- Colonialism and Imperialism
+- Revolutions
+- Wars
+- Terrorism
+
+
+## Colonialism and Imperialism
+
+- Westernization, Modernization
+- Colonial rule and Imperial rule
+- Post WW1 protectorate and mandate
+![civilization](images/east-west.png){width=310}
+
+
+## Revolutions
+
+- Rebellion / Independence Movement
+Questions ^[@naimark2003yugoslavia]
+
+
+## Wars
+
+:::: {.columns}
+
+::: {.column width="33%"}
+Civil
+:::
+
+::: {.column width="33%"}
+Regional
+:::
+
+::: {.column width="34%"}
+World
+:::
+
+::::
+```{python}
+#| echo: true
+#| code-fold: true
+import numpy as np
+import matplotlib.pyplot as plt
+x = np.array([13, 29, 24, 34])
+l = ['military', 'political', 'cultural', 'educational']
+plt.pie(x, labels= l)
+plt.show() 
+
+```
+## Terrorism
+
+- Definition of Violence[@naimark2003yugoslavia]
+
+![conflicted](images/conflicted.png){width=310}
+
+

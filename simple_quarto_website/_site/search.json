@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "slides/slides.html#mme-relationship-of-violence-and-the-development-of-community",
+    "href": "slides/slides.html#mme-relationship-of-violence-and-the-development-of-community",
+    "title": "simple presentation",
+    "section": "MME: relationship of Violence and the Development of Community",
+    "text": "MME: relationship of Violence and the Development of Community\n\nColonialism and Imperialism\nRevolutions\nWars\nTerrorism"
+  },
+  {
+    "objectID": "slides/slides.html#colonialism-and-imperialism",
+    "href": "slides/slides.html#colonialism-and-imperialism",
+    "title": "simple presentation",
+    "section": "Colonialism and Imperialism",
+    "text": "Colonialism and Imperialism\n\nWesternization, Modernization\nColonial rule and Imperial rule\nPost WW1 protectorate and mandate"
+  },
+  {
+    "objectID": "slides/slides.html#revolutions",
+    "href": "slides/slides.html#revolutions",
+    "title": "simple presentation",
+    "section": "Revolutions",
+    "text": "Revolutions\n\nRebellion / Independence Movement Questions 1\n\nNaimark and Case (2003)"
+  },
+  {
+    "objectID": "slides/slides.html#wars",
+    "href": "slides/slides.html#wars",
+    "title": "simple presentation",
+    "section": "Wars",
+    "text": "Wars\n\n\nCivil\n\nRegional\n\nWorld\n\n\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\nx = np.array([13, 29, 24, 34])\nl = ['military', 'political', 'cultural', 'educational']\nplt.pie(x, labels= l)\nplt.show()"
+  },
+  {
+    "objectID": "slides/slides.html#terrorism",
+    "href": "slides/slides.html#terrorism",
+    "title": "simple presentation",
+    "section": "Terrorism",
+    "text": "Terrorism\n\nDefinition of Violence(Naimark and Case 2003)\n\n\n\nconflicted\n\n\n\n\n\n\nNaimark, Norman M, and Holly Case. 2003. Yugoslavia and Its Historians: Understanding the Balkan Wars of the 1990s. Stanford University Press."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites. # Quarto Website"
+  },
+  {
+    "objectID": "index.html#modern-middle-east",
+    "href": "index.html#modern-middle-east",
+    "title": "simple_quarto_website",
+    "section": "Modern Middle East",
+    "text": "Modern Middle East\n\nImportant Figures\n\nMehmet Ali (1769~1849)\nSultan Selim III (1789~1807)\nReza Shah Pahlavi (1878~1944)\nMustafa Kemal (1881~1938)\n\n\n\nEvents\n\n\n\nTime\nDescription\n\n\n\n\n1798\nNapolean’s Egyptian campaign\n\n\n1839\nGulhane Rescript of 1839\n\n\n1853\nCrimean War\n\n\n\n\n\nHistorical Themes\nIslamic Revival: from pan-Islamism to Muslim Brotherhood\n\nPropagandists of today are not like those of yesterday. They are educated, well-equipped, and thoroughly trained specialists, particularly in the western countries, where there are trained corps specializing in every ideology, clarifying its abstruse points, displaying its good features, and inventing means of dissemination and methods of propagandizing for it. On its behalf, they feel out the easiest, most effortless, and most convenient ways to influence the minds of people, leading to inner conviction and conversion. —- Hasan al-Banna1\n\n\nIslamism\n\n\n\n\n\n\n    flowchart TD;\n        A[Jamal al-Din al-Afghani] --&gt; B[Muhammad Abduh]\n        A[Jamal al-Din al-Afghani] --&gt; C[Saad Zaghlul]\n        B[Muhammad Abduh] --&gt; D[Hasan al-Banna]\n        B[Muhammad Abduh] --&gt; E[Sayyid Qutb]\n        D[Hasan al-Banna] --&gt; E[Sayyid Qutb]\n\n\n\n\n\n\n\n\nFun Facts\nFibonacci2 Thm: \\(\\sum_{i=0}^n F_i=F_{n+2}-1\\) for \\(n \\in \\mathbb{N}\\) \\[\n\\begin{aligned} \\sum_{i=0}^{k+1} F_i & =\\left(\\sum_{i=0}^k F_i\\right)+F_{k+1} \\\\ & =F_{k+2}-1+F_{k+1} \\\\ & =F_{k+3}-1\\end{aligned}\n\\]\n\nFor Las Casas, as for Cicero, the universe was “a single joint community of gods and men. ’All the races of the world are men”, wrote Las Casas in a passage which has now become famous, “and the definition of all men, and of each of them, is only one and that is reason.” (p140)(Pagden 1986) ### class notes\n\n\n\n\nalt text\n\n\n\n\n\nalt text\n\n\nvideo resource: ![timeline till 2000]"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nHasan al-Banna, and Charles Wendell., Five Tracts of Hasan Al-Banna (1906-1949) Berkeley: University of California Press, 1978↩︎\nLeonardo Fibonacci (1175~1250)↩︎"
+  },
+  {
+    "objectID": "slides/slides2.html#mme-relationship-of-violence-and-the-development-of-community",
+    "href": "slides/slides2.html#mme-relationship-of-violence-and-the-development-of-community",
+    "title": "simple presentation",
+    "section": "MME: relationship of Violence and the Development of Community",
+    "text": "MME: relationship of Violence and the Development of Community\n\nColonialism and Imperialism\nRevolutions\nWars\nTerrorism"
+  },
+  {
+    "objectID": "slides/slides2.html#colonialism-and-imperialism",
+    "href": "slides/slides2.html#colonialism-and-imperialism",
+    "title": "simple presentation",
+    "section": "Colonialism and Imperialism",
+    "text": "Colonialism and Imperialism\n\nWesternization, Modernization\nColonial rule and Imperial rule\nPost WW1 protectorate and mandate"
+  },
+  {
+    "objectID": "slides/slides2.html#revolutions",
+    "href": "slides/slides2.html#revolutions",
+    "title": "simple presentation",
+    "section": "Revolutions",
+    "text": "Revolutions\n\nRebellion / Independence Movement Questions 1\n\nNaimark and Case (2003)"
+  },
+  {
+    "objectID": "slides/slides2.html#wars",
+    "href": "slides/slides2.html#wars",
+    "title": "simple presentation",
+    "section": "Wars",
+    "text": "Wars\n\n\nCivil\n\nRegional\n\nWorld\n\n\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\nx = np.array([13, 29, 24, 34])\nl = ['military', 'political', 'cultural', 'educational']\nplt.pie(x, labels= l)\nplt.show()"
+  },
+  {
+    "objectID": "slides/slides2.html#terrorism",
+    "href": "slides/slides2.html#terrorism",
+    "title": "simple presentation",
+    "section": "Terrorism",
+    "text": "Terrorism\n\nDefinition of Violence(Naimark and Case 2003)\n\n\n\nconflicted\n\n\n\n\n\n\nNaimark, Norman M, and Holly Case. 2003. Yugoslavia and Its Historians: Understanding the Balkan Wars of the 1990s. Stanford University Press."
+  }
+]

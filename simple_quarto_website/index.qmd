@@ -1,0 +1,67 @@
+---
+title: "simple_quarto_website"
+author: 'Christy Hsu'
+toc: true
+bibliography:
+    - reference.bib
+# number-sections: true
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Quarto Website
+
+## Modern Middle East
+
+
+### Important Figures
+
+- Mehmet Ali (1769~1849)
+- Sultan Selim III (1789~1807)
+- Reza Shah Pahlavi (1878~1944)
+- Mustafa Kemal (1881~1938)
+
+### Events
+| Time | Description |
+| ----------- | ----------- |
+| 1798 | Napolean's Egyptian campaign |
+| 1839 | Gulhane Rescript of 1839 |
+| 1853 | Crimean War |
+
+### Historical Themes
+
+Islamic Revival: from pan-Islamism to Muslim Brotherhood
+
+> Propagandists of today are not like those of yesterday. They are educated, well-equipped, and thoroughly trained specialists, particularly in the western countries, where there are trained corps specializing in every ideology, clarifying its abstruse points, displaying its good features, and inventing means of dissemination and methods of propagandizing for it. On its behalf, they feel out the easiest, most effortless, and most convenient ways to influence the minds of people, leading to inner conviction and conversion. ---- Hasan al-Banna^[Hasan al-Banna, and Charles Wendell., *Five Tracts of Hasan Al-Banna (1906-1949)* Berkeley: University of California Press, 1978]
+
+* Islamism
+
+```{mermaid}
+    flowchart TD;
+        A[Jamal al-Din al-Afghani] --> B[Muhammad Abduh]
+        A[Jamal al-Din al-Afghani] --> C[Saad Zaghlul]
+        B[Muhammad Abduh] --> D[Hasan al-Banna]
+        B[Muhammad Abduh] --> E[Sayyid Qutb]
+        D[Hasan al-Banna] --> E[Sayyid Qutb]
+```
+### Fun Facts
+Fibonacci^[Leonardo Fibonacci (1175~1250)]
+Thm: $\sum_{i=0}^n F_i=F_{n+2}-1$ for $n \in \mathbb{N}$
+$$
+\begin{aligned} \sum_{i=0}^{k+1} F_i & =\left(\sum_{i=0}^k F_i\right)+F_{k+1} \\ & =F_{k+2}-1+F_{k+1} \\ & =F_{k+3}-1\end{aligned}
+$$
+
+> For Las Casas, as for Cicero, the universe was “a single joint community of gods and men. ‘All the races of the world are men”, wrote Las Casas in a passage which has now become famous, “and the definition of all men, and of each of them, is only one and that is reason." (p140)[@pagden1986fall]
+### class notes
+
+![alt text](images/mme-note.png)
+
+
+![alt text](images/mme-timeline.png)
+
+video resource:
+[![timeline till 2000]](images/mme-scroll.mov)
+
+
+
